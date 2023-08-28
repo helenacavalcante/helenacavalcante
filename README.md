@@ -3,13 +3,14 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF69B4&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+Name+is+Mylena+Oliveira;I'm+24+years+old+;I+live+in+Recife,+PE;I'm+Post+Graduated+in+Financial+Management;I'm+also+graduated+and+technical+in+Administration;and+currently+I'm+studying+programming+BackEnd;In+that+space+you+will+find;my+portfolio+of+personal+projects;Be+welcome!!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mylenaaraujo08&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=FF1493&bg_color=FFEFD5" alt="Mylena Araújo github stats " /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mylenaaraujo08&layout=compact&hide_border=true&title_color=FF1493&text_color=FF1493&bg_color=FFEFD5"/>
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=helenacavalcante&show_icons=true&count_private=true&hide_border=true&title_color=FF1493&icon_color=FF1493&text_color=FF1493&bg_color=FFEFD5" alt="helena cavalcantegithub stats " /> 
+  https://api.github.com/repos/:helenacavalcante/:testecommit/commits
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=helenacavalcante&layout=compact&hide_border=true&title_color=FF1493&text_color=FF1493&bg_color=FFEFD5"/>
 </div>
 
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mylenaaraujo08&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+  <img src="https://github-profile-trophy.vercel.app/?username=helenacavalcante&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
 </p>
 
 
